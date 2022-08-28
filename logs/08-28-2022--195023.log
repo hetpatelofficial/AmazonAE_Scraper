@@ -1,0 +1,9 @@
+2022-08-28 19:50:23,387-DEBUG: Func-<module> : Line-35 : 
+---------------------  is Started at -> 28-08-2022 07:50:23 PM ---------------------
+2022-08-28 19:50:23,387-INFO: Func-<module> : Line-36 : Current Working Directory: D:\Projects\Amazon_Scrapper_AE
+2022-08-28 19:50:23,387-INFO: Func-<module> : Line-37 : Current Date & Time: 28-08-2022 07:50:23 PM
+2022-08-28 19:50:23,388-INFO: Func-<module> : Line-38 : Log File Path: D:\Projects\Amazon_Scrapper_AE\logs\08-28-2022--195023.log
+2022-08-28 19:50:25,674-INFO: Func-<module> : Line-45 : Chrome Driver File Path: D:\Projects\Amazon_Scrapper_AE\logs\08-28-2022--195023.log
+2022-08-28 19:50:25,678-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances
+2022-08-28 19:50:25,954-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/appliances

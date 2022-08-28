@@ -1,0 +1,265 @@
+2022-08-28 19:51:01,990-DEBUG: Func-<module> : Line-35 : 
+---------------------  is Started at -> 28-08-2022 07:51:01 PM ---------------------
+2022-08-28 19:51:01,990-INFO: Func-<module> : Line-36 : Current Working Directory: D:\Projects\Amazon_Scrapper_AE
+2022-08-28 19:51:01,990-INFO: Func-<module> : Line-37 : Current Date & Time: 28-08-2022 07:51:01 PM
+2022-08-28 19:51:01,990-INFO: Func-<module> : Line-38 : Log File Path: D:\Projects\Amazon_Scrapper_AE\logs\08-28-2022--195101.log
+2022-08-28 19:51:05,911-INFO: Func-<module> : Line-45 : Chrome Driver File Path: D:\Projects\Amazon_Scrapper_AE\logs\08-28-2022--195101.log
+2022-08-28 19:51:05,914-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances
+2022-08-28 19:51:07,901-DEBUG: Func-get_categories : Line-99 : Dishwashers: https://www.amazon.ae/gp/bestsellers/appliances/15174960031 is set to True
+2022-08-28 19:51:07,901-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174960031
+2022-08-28 19:51:09,628-DEBUG: Func-get_categories : Line-99 : Heating & Cooling: https://www.amazon.ae/gp/bestsellers/appliances/12134072031 is set to True
+2022-08-28 19:51:09,628-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/12134072031
+2022-08-28 19:51:11,230-DEBUG: Func-get_categories : Line-99 : Irons, Steamers & Accessories: https://www.amazon.ae/gp/bestsellers/appliances/12134246031 is set to True
+2022-08-28 19:51:11,231-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/12134246031
+2022-08-28 19:51:13,343-DEBUG: Func-get_categories : Line-99 : Parts & Accessories: https://www.amazon.ae/gp/bestsellers/appliances/15174963031 is set to True
+2022-08-28 19:51:13,343-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174963031
+2022-08-28 19:51:15,057-DEBUG: Func-get_categories : Line-99 : Ranges, Ovens & Cooktops: https://www.amazon.ae/gp/bestsellers/appliances/15174962031 is set to True
+2022-08-28 19:51:15,057-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174962031
+2022-08-28 19:51:16,710-DEBUG: Func-get_categories : Line-99 : Refrigerators, Freezers & Ice Cube Makers: https://www.amazon.ae/gp/bestsellers/appliances/15174961031 is set to True
+2022-08-28 19:51:16,710-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174961031
+2022-08-28 19:51:18,565-DEBUG: Func-get_categories : Line-99 : Small Appliances: https://www.amazon.ae/gp/bestsellers/appliances/12134075031 is set to True
+2022-08-28 19:51:18,565-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/12134075031
+2022-08-28 19:51:20,342-DEBUG: Func-get_categories : Line-99 : Steam Cleaners & Floor Polishers: https://www.amazon.ae/gp/bestsellers/appliances/15298048031 is set to True
+2022-08-28 19:51:20,342-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15298048031
+2022-08-28 19:51:22,070-DEBUG: Func-get_categories : Line-99 : Vacuums: https://www.amazon.ae/gp/bestsellers/appliances/12134763031 is set to True
+2022-08-28 19:51:22,070-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/12134763031
+2022-08-28 19:51:23,450-DEBUG: Func-get_categories : Line-99 : Warranties: https://www.amazon.ae/gp/bestsellers/appliances/21074709031 is set to True
+2022-08-28 19:51:23,450-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/21074709031
+2022-08-28 19:51:25,813-DEBUG: Func-get_categories : Line-99 : Washers & Dryers: https://www.amazon.ae/gp/bestsellers/appliances/15174965031 is set to True
+2022-08-28 19:51:25,813-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174965031
+2022-08-28 19:51:27,342-DEBUG: Func-get_categories : Line-99 : Air Conditioners: https://www.amazon.ae/gp/bestsellers/kitchen/12134132031 is set to True
+2022-08-28 19:51:27,342-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134132031
+2022-08-28 19:51:28,946-DEBUG: Func-get_categories : Line-99 : Air Purifiers: https://www.amazon.ae/gp/bestsellers/kitchen/12134133031 is set to True
+2022-08-28 19:51:28,947-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134133031
+2022-08-28 19:51:30,480-DEBUG: Func-get_categories : Line-99 : Dehumidifiers: https://www.amazon.ae/gp/bestsellers/kitchen/12134134031 is set to True
+2022-08-28 19:51:30,480-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134134031
+2022-08-28 19:51:32,569-DEBUG: Func-get_categories : Line-99 : Fans: https://www.amazon.ae/gp/bestsellers/kitchen/12134135031 is set to True
+2022-08-28 19:51:32,570-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134135031
+2022-08-28 19:51:34,256-DEBUG: Func-get_categories : Line-99 : Heating: https://www.amazon.ae/gp/bestsellers/kitchen/12134136031 is set to True
+2022-08-28 19:51:34,256-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134136031
+2022-08-28 19:51:35,085-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134136031
+2022-08-28 19:51:35,085-DEBUG: Func-get_categories : Line-99 : Humidifiers: https://www.amazon.ae/gp/bestsellers/kitchen/12134137031 is set to True
+2022-08-28 19:51:35,085-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134137031
+2022-08-28 19:51:36,581-DEBUG: Func-get_categories : Line-99 : Ironing Accessories: https://www.amazon.ae/gp/bestsellers/kitchen/12134746031 is set to True
+2022-08-28 19:51:36,582-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134746031
+2022-08-28 19:51:38,114-DEBUG: Func-get_categories : Line-99 : Irons: https://www.amazon.ae/gp/bestsellers/kitchen/12134750031 is set to True
+2022-08-28 19:51:38,114-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134750031
+2022-08-28 19:51:38,920-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134750031
+2022-08-28 19:51:38,920-DEBUG: Func-get_categories : Line-99 : Appliance Slipcovers: https://www.amazon.ae/gp/bestsellers/appliances/15300169031 is set to True
+2022-08-28 19:51:38,920-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15300169031
+2022-08-28 19:51:41,631-DEBUG: Func-get_categories : Line-99 : Dryer Parts & Accessories: https://www.amazon.ae/gp/bestsellers/appliances/15174976031 is set to True
+2022-08-28 19:51:41,631-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174976031
+2022-08-28 19:51:43,276-DEBUG: Func-get_categories : Line-99 : Range Parts & Accessories: https://www.amazon.ae/gp/bestsellers/appliances/15174980031 is set to True
+2022-08-28 19:51:43,276-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174980031
+2022-08-28 19:51:46,300-DEBUG: Func-get_categories : Line-99 : Refrigerator Parts & Accessories: https://www.amazon.ae/gp/bestsellers/appliances/15174981031 is set to True
+2022-08-28 19:51:46,300-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174981031
+2022-08-28 19:51:48,128-DEBUG: Func-get_categories : Line-99 : Washer Parts & Accessories: https://www.amazon.ae/gp/bestsellers/appliances/15174983031 is set to True
+2022-08-28 19:51:48,128-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174983031
+2022-08-28 19:51:50,110-DEBUG: Func-get_categories : Line-99 : Microwave Ovens: https://www.amazon.ae/gp/bestsellers/appliances/12134164031 is set to True
+2022-08-28 19:51:50,111-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/12134164031
+2022-08-28 19:51:51,519-DEBUG: Func-get_categories : Line-99 : Range Hoods: https://www.amazon.ae/gp/bestsellers/appliances/15174971031 is set to True
+2022-08-28 19:51:51,520-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174971031
+2022-08-28 19:51:54,342-DEBUG: Func-get_categories : Line-99 : Ranges: https://www.amazon.ae/gp/bestsellers/appliances/15174972031 is set to True
+2022-08-28 19:51:54,342-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174972031
+2022-08-28 19:51:56,011-DEBUG: Func-get_categories : Line-99 : Toaster Ovens: https://www.amazon.ae/gp/bestsellers/appliances/12134569031 is set to True
+2022-08-28 19:51:56,011-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/12134569031
+2022-08-28 19:52:00,475-DEBUG: Func-get_categories : Line-99 : Freezers: https://www.amazon.ae/gp/bestsellers/appliances/15174967031 is set to True
+2022-08-28 19:52:00,476-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174967031
+2022-08-28 19:52:01,928-DEBUG: Func-get_categories : Line-99 : Refrigerators: https://www.amazon.ae/gp/bestsellers/appliances/15174969031 is set to True
+2022-08-28 19:52:01,928-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174969031
+2022-08-28 19:52:04,018-DEBUG: Func-get_categories : Line-99 : Blenders, Mixers & Food Processors: https://www.amazon.ae/gp/bestsellers/kitchen/12134148031 is set to True
+2022-08-28 19:52:04,018-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134148031
+2022-08-28 19:52:05,542-DEBUG: Func-get_categories : Line-99 : Bread Makers: https://www.amazon.ae/gp/bestsellers/kitchen/12134149031 is set to True
+2022-08-28 19:52:05,543-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134149031
+2022-08-28 19:52:08,091-DEBUG: Func-get_categories : Line-99 : Coffee Machines: https://www.amazon.ae/gp/bestsellers/kitchen/15298040031 is set to True
+2022-08-28 19:52:08,091-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/15298040031
+2022-08-28 19:52:09,159-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/15298040031
+2022-08-28 19:52:09,159-DEBUG: Func-get_categories : Line-99 : Electric Steamers: https://www.amazon.ae/gp/bestsellers/kitchen/12134156031 is set to True
+2022-08-28 19:52:09,159-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134156031
+2022-08-28 19:52:10,684-DEBUG: Func-get_categories : Line-99 : Fryers: https://www.amazon.ae/gp/bestsellers/kitchen/12134157031 is set to True
+2022-08-28 19:52:10,684-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134157031
+2022-08-28 19:52:12,234-DEBUG: Func-get_categories : Line-99 : Indoor Grills & Griddles: https://www.amazon.ae/gp/bestsellers/kitchen/12134158031 is set to True
+2022-08-28 19:52:12,234-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134158031
+2022-08-28 19:52:13,973-DEBUG: Func-get_categories : Line-99 : Juicers: https://www.amazon.ae/gp/bestsellers/kitchen/12134160031 is set to True
+2022-08-28 19:52:13,973-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134160031
+2022-08-28 19:52:15,515-DEBUG: Func-get_categories : Line-99 : Kettles & Hot Water Dispensers: https://www.amazon.ae/gp/bestsellers/kitchen/12134162031 is set to True
+2022-08-28 19:52:15,516-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134162031
+2022-08-28 19:52:17,302-DEBUG: Func-get_categories : Line-99 : Kitchen Scales: https://www.amazon.ae/gp/bestsellers/kitchen/12134163031 is set to True
+2022-08-28 19:52:17,302-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134163031
+2022-08-28 19:52:18,740-DEBUG: Func-get_categories : Line-99 : Milk Frothers: https://www.amazon.ae/gp/bestsellers/kitchen/12134099031 is set to True
+2022-08-28 19:52:18,740-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134099031
+2022-08-28 19:52:20,057-DEBUG: Func-get_categories : Line-99 : Mills & Grinders: https://www.amazon.ae/gp/bestsellers/kitchen/27320734031 is set to True
+2022-08-28 19:52:20,057-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/27320734031
+2022-08-28 19:52:21,395-DEBUG: Func-get_categories : Line-99 : Sandwich Makers & Panini Presses: https://www.amazon.ae/gp/bestsellers/kitchen/12134166031 is set to True
+2022-08-28 19:52:21,395-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134166031
+2022-08-28 19:52:24,095-DEBUG: Func-get_categories : Line-99 : Small Appliance Parts & Accessories: https://www.amazon.ae/gp/bestsellers/kitchen/12134168031 is set to True
+2022-08-28 19:52:24,095-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134168031
+2022-08-28 19:52:24,873-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134168031
+2022-08-28 19:52:24,873-DEBUG: Func-get_categories : Line-99 : Specialty Appliances: https://www.amazon.ae/gp/bestsellers/kitchen/12134170031 is set to True
+2022-08-28 19:52:24,873-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134170031
+2022-08-28 19:52:26,437-DEBUG: Func-get_categories : Line-99 : Toasters: https://www.amazon.ae/gp/bestsellers/kitchen/12134171031 is set to True
+2022-08-28 19:52:26,437-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134171031
+2022-08-28 19:52:27,273-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134171031
+2022-08-28 19:52:27,273-DEBUG: Func-get_categories : Line-99 : Vacuum Sealers: https://www.amazon.ae/gp/bestsellers/kitchen/12134172031 is set to True
+2022-08-28 19:52:27,273-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134172031
+2022-08-28 19:52:27,956-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134172031
+2022-08-28 19:52:27,956-DEBUG: Func-get_categories : Line-99 : Waffle Makers & Irons: https://www.amazon.ae/gp/bestsellers/kitchen/12134173031 is set to True
+2022-08-28 19:52:27,956-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134173031
+2022-08-28 19:52:29,941-DEBUG: Func-get_categories : Line-99 : Steam Cleaners: https://www.amazon.ae/gp/bestsellers/kitchen/12134760031 is set to True
+2022-08-28 19:52:29,941-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134760031
+2022-08-28 19:52:31,462-DEBUG: Func-get_categories : Line-99 : Steam Mops: https://www.amazon.ae/gp/bestsellers/kitchen/12134761031 is set to True
+2022-08-28 19:52:31,462-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134761031
+2022-08-28 19:52:33,077-DEBUG: Func-get_categories : Line-99 : Canister Vacuums: https://www.amazon.ae/gp/bestsellers/kitchen/12135067031 is set to True
+2022-08-28 19:52:33,077-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12135067031
+2022-08-28 19:52:35,324-DEBUG: Func-get_categories : Line-99 : Central Vacuum Systems: https://www.amazon.ae/gp/bestsellers/kitchen/12135066031 is set to True
+2022-08-28 19:52:35,324-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12135066031
+2022-08-28 19:52:37,542-DEBUG: Func-get_categories : Line-99 : Handheld Vacuums: https://www.amazon.ae/gp/bestsellers/kitchen/12135068031 is set to True
+2022-08-28 19:52:37,543-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12135068031
+2022-08-28 19:52:38,376-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12135068031
+2022-08-28 19:52:38,376-DEBUG: Func-get_categories : Line-99 : Robotic Vacuums: https://www.amazon.ae/gp/bestsellers/kitchen/12135069031 is set to True
+2022-08-28 19:52:38,376-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12135069031
+2022-08-28 19:52:41,524-DEBUG: Func-get_categories : Line-99 : Stick Vacuums & Electric Brooms: https://www.amazon.ae/gp/bestsellers/kitchen/12135070031 is set to True
+2022-08-28 19:52:41,524-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12135070031
+2022-08-28 19:52:43,947-DEBUG: Func-get_categories : Line-99 : Dryers: https://www.amazon.ae/gp/bestsellers/appliances/15174984031 is set to True
+2022-08-28 19:52:43,947-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174984031
+2022-08-28 19:52:45,804-DEBUG: Func-get_categories : Line-99 : Stacked Washers & Dryers: https://www.amazon.ae/gp/bestsellers/appliances/15240056031 is set to True
+2022-08-28 19:52:45,804-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15240056031
+2022-08-28 19:52:47,489-DEBUG: Func-get_categories : Line-99 : Washers: https://www.amazon.ae/gp/bestsellers/appliances/15174985031 is set to True
+2022-08-28 19:52:47,489-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174985031
+2022-08-28 19:52:48,722-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/appliances/15174985031
+2022-08-28 19:52:48,722-DEBUG: Func-get_categories : Line-99 : Cabinet Air Conditioners: https://www.amazon.ae/gp/bestsellers/kitchen/15298093031 is set to True
+2022-08-28 19:52:48,722-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/15298093031
+2022-08-28 19:52:50,355-DEBUG: Func-get_categories : Line-99 : Mobile Air Conditioners: https://www.amazon.ae/gp/bestsellers/kitchen/12134427031 is set to True
+2022-08-28 19:52:50,355-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134427031
+2022-08-28 19:52:51,717-DEBUG: Func-get_categories : Line-99 : Portable Air Purifiers: https://www.amazon.ae/gp/bestsellers/kitchen/12134436031 is set to True
+2022-08-28 19:52:51,717-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134436031
+2022-08-28 19:52:53,121-DEBUG: Func-get_categories : Line-99 : Blower Fans: https://www.amazon.ae/gp/bestsellers/kitchen/12134438031 is set to True
+2022-08-28 19:52:53,121-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134438031
+2022-08-28 19:52:55,302-DEBUG: Func-get_categories : Line-99 : Ceiling Fans: https://www.amazon.ae/gp/bestsellers/kitchen/12134440031 is set to True
+2022-08-28 19:52:55,302-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134440031
+2022-08-28 19:52:57,007-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134440031
+2022-08-28 19:52:57,007-DEBUG: Func-get_categories : Line-99 : Desk Fans: https://www.amazon.ae/gp/bestsellers/kitchen/12134441031 is set to True
+2022-08-28 19:52:57,007-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134441031
+2022-08-28 19:52:58,422-DEBUG: Func-get_categories : Line-99 : Pedestal Fans: https://www.amazon.ae/gp/bestsellers/kitchen/12134444031 is set to True
+2022-08-28 19:52:58,422-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134444031
+2022-08-28 19:52:59,789-DEBUG: Func-get_categories : Line-99 : Personal Fans: https://www.amazon.ae/gp/bestsellers/kitchen/12134445031 is set to True
+2022-08-28 19:52:59,789-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134445031
+2022-08-28 19:53:00,647-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134445031
+2022-08-28 19:53:00,648-DEBUG: Func-get_categories : Line-99 : Tower Fans: https://www.amazon.ae/gp/bestsellers/kitchen/12134447031 is set to True
+2022-08-28 19:53:00,648-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134447031
+2022-08-28 19:53:02,170-DEBUG: Func-get_categories : Line-99 : Anti-Limescale Jugs: https://www.amazon.ae/gp/bestsellers/kitchen/12135038031 is set to True
+2022-08-28 19:53:02,170-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12135038031
+2022-08-28 19:53:03,221-DEBUG: Func-get_categories : Line-99 : Ironing Board Covers: https://www.amazon.ae/gp/bestsellers/kitchen/12135043031 is set to True
+2022-08-28 19:53:03,221-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12135043031
+2022-08-28 19:53:04,671-DEBUG: Func-get_categories : Line-99 : Ironing Boards: https://www.amazon.ae/gp/bestsellers/kitchen/12134747031 is set to True
+2022-08-28 19:53:04,671-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134747031
+2022-08-28 19:53:05,633-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134747031
+2022-08-28 19:53:05,634-DEBUG: Func-get_categories : Line-99 : Laundry Baskets: https://www.amazon.ae/gp/bestsellers/kitchen/12148513031 is set to True
+2022-08-28 19:53:05,634-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12148513031
+2022-08-28 19:53:07,148-DEBUG: Func-get_categories : Line-99 : Lint Shavers: https://www.amazon.ae/gp/bestsellers/kitchen/12134751031 is set to True
+2022-08-28 19:53:07,148-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134751031
+2022-08-28 19:53:07,973-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134751031
+2022-08-28 19:53:07,973-DEBUG: Func-get_categories : Line-99 : Spray Bottles: https://www.amazon.ae/gp/bestsellers/kitchen/12135045031 is set to True
+2022-08-28 19:53:07,974-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12135045031
+2022-08-28 19:53:09,666-DEBUG: Func-get_categories : Line-99 : Refrigerator Covers: https://www.amazon.ae/gp/bestsellers/appliances/15300258031 is set to True
+2022-08-28 19:53:09,666-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15300258031
+2022-08-28 19:53:11,165-DEBUG: Func-get_categories : Line-99 : Plug Receptacles: https://www.amazon.ae/gp/bestsellers/appliances/15175023031 is set to True
+2022-08-28 19:53:11,165-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15175023031
+2022-08-28 19:53:12,218-DEBUG: Func-get_categories : Line-99 : Refrigerator Water Filters: https://www.amazon.ae/gp/bestsellers/appliances/15175039031 is set to True
+2022-08-28 19:53:12,218-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15175039031
+2022-08-28 19:53:13,919-DEBUG: Func-get_categories : Line-99 : Electric Fondues: https://www.amazon.ae/gp/bestsellers/kitchen/12134538031 is set to True
+2022-08-28 19:53:13,919-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134538031
+2022-08-28 19:53:15,205-DEBUG: Func-get_categories : Line-99 : Electric Hot Pots: https://www.amazon.ae/gp/bestsellers/kitchen/15298072031 is set to True
+2022-08-28 19:53:15,205-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/15298072031
+2022-08-28 19:53:16,867-DEBUG: Func-get_categories : Line-99 : Electric Pressure Cookers: https://www.amazon.ae/gp/bestsellers/kitchen/12134541031 is set to True
+2022-08-28 19:53:16,867-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134541031
+2022-08-28 19:53:17,914-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134541031
+2022-08-28 19:53:17,914-DEBUG: Func-get_categories : Line-99 : Electric Woks: https://www.amazon.ae/gp/bestsellers/kitchen/12134546031 is set to True
+2022-08-28 19:53:17,914-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134546031
+2022-08-28 19:53:18,883-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134546031
+2022-08-28 19:53:18,883-DEBUG: Func-get_categories : Line-99 : Ice Cream Machines: https://www.amazon.ae/gp/bestsellers/kitchen/12134552031 is set to True
+2022-08-28 19:53:18,883-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134552031
+2022-08-28 19:53:21,308-DEBUG: Func-get_categories : Line-99 : Meat Grinders: https://www.amazon.ae/gp/bestsellers/kitchen/12134554031 is set to True
+2022-08-28 19:53:21,308-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134554031
+2022-08-28 19:53:22,746-DEBUG: Func-get_categories : Line-99 : Rice Cookers: https://www.amazon.ae/gp/bestsellers/kitchen/12134562031 is set to True
+2022-08-28 19:53:22,746-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134562031
+2022-08-28 19:53:24,564-DEBUG: Func-get_categories : Line-99 : Yogurt Makers: https://www.amazon.ae/gp/bestsellers/kitchen/12134570031 is set to True
+2022-08-28 19:53:24,564-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134570031
+2022-08-28 19:53:27,399-DEBUG: Func-get_categories : Line-99 : Beverage Refrigerators: https://www.amazon.ae/gp/bestsellers/appliances/15240048031 is set to True
+2022-08-28 19:53:27,399-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15240048031
+2022-08-28 19:53:29,209-DEBUG: Func-get_categories : Line-99 : Mini Fridges: https://www.amazon.ae/gp/bestsellers/appliances/15174988031 is set to True
+2022-08-28 19:53:29,210-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/appliances/15174988031
+2022-08-28 19:53:30,980-DEBUG: Func-get_categories : Line-99 : Blenders: https://www.amazon.ae/gp/bestsellers/kitchen/12134495031 is set to True
+2022-08-28 19:53:30,980-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134495031
+2022-08-28 19:53:32,844-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134495031
+2022-08-28 19:53:32,845-DEBUG: Func-get_categories : Line-99 : Food Processors: https://www.amazon.ae/gp/bestsellers/kitchen/12134496031 is set to True
+2022-08-28 19:53:32,845-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134496031
+2022-08-28 19:53:34,341-DEBUG: Func-get_categories : Line-99 : Mixers: https://www.amazon.ae/gp/bestsellers/kitchen/12134497031 is set to True
+2022-08-28 19:53:34,342-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134497031
+2022-08-28 19:53:35,871-DEBUG: Func-get_categories : Line-99 : Air Fryers: https://www.amazon.ae/gp/bestsellers/kitchen/15298056031 is set to True
+2022-08-28 19:53:35,872-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/15298056031
+2022-08-28 19:53:37,344-DEBUG: Func-get_categories : Line-99 : Deep Fryers: https://www.amazon.ae/gp/bestsellers/kitchen/15298055031 is set to True
+2022-08-28 19:53:37,344-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/15298055031
+2022-08-28 19:53:38,547-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/15298055031
+2022-08-28 19:53:38,547-DEBUG: Func-get_categories : Line-99 : Centrifugal Juicers: https://www.amazon.ae/gp/bestsellers/kitchen/12134503031 is set to True
+2022-08-28 19:53:38,547-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134503031
+2022-08-28 19:53:39,372-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134503031
+2022-08-28 19:53:39,372-DEBUG: Func-get_categories : Line-99 : Electric Citrus Juicers: https://www.amazon.ae/gp/bestsellers/kitchen/12134502031 is set to True
+2022-08-28 19:53:39,372-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134502031
+2022-08-28 19:53:40,166-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134502031
+2022-08-28 19:53:40,166-DEBUG: Func-get_categories : Line-99 : Electric Kettles: https://www.amazon.ae/gp/bestsellers/kitchen/12134504031 is set to True
+2022-08-28 19:53:40,166-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134504031
+2022-08-28 19:53:42,693-DEBUG: Func-get_categories : Line-99 : Handheld Milk Frothers: https://www.amazon.ae/gp/bestsellers/kitchen/12134311031 is set to True
+2022-08-28 19:53:42,693-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134311031
+2022-08-28 19:53:44,336-DEBUG: Func-get_categories : Line-99 : Milk Frothing Pitchers: https://www.amazon.ae/gp/bestsellers/kitchen/12134301031 is set to True
+2022-08-28 19:53:44,336-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134301031
+2022-08-28 19:53:45,958-DEBUG: Func-get_categories : Line-99 : Wet Grinders: https://www.amazon.ae/gp/bestsellers/kitchen/27320735031 is set to True
+2022-08-28 19:53:45,958-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/27320735031
+2022-08-28 19:53:47,207-DEBUG: Func-get_categories : Line-99 : Clotheslines: https://www.amazon.ae/gp/bestsellers/home/12148509031 is set to True
+2022-08-28 19:53:47,207-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/home/12148509031
+2022-08-28 19:53:48,767-DEBUG: Func-get_categories : Line-99 : Drying Racks: https://www.amazon.ae/gp/bestsellers/home/12148510031 is set to True
+2022-08-28 19:53:48,767-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/home/12148510031
+2022-08-28 19:53:50,151-DEBUG: Func-get_categories : Line-99 : Laundry Bags: https://www.amazon.ae/gp/bestsellers/home/12148512031 is set to True
+2022-08-28 19:53:50,151-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/home/12148512031
+2022-08-28 19:53:51,921-DEBUG: Func-get_categories : Line-99 : Laundry Hampers: https://www.amazon.ae/gp/bestsellers/home/12148514031 is set to True
+2022-08-28 19:53:51,921-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/home/12148514031
+2022-08-28 19:53:52,752-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/home/12148514031
+2022-08-28 19:53:52,753-DEBUG: Func-get_categories : Line-99 : Laundry Sorters: https://www.amazon.ae/gp/bestsellers/home/12148515031 is set to True
+2022-08-28 19:53:52,753-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/home/12148515031
+2022-08-28 19:53:53,587-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/home/12148515031
+2022-08-28 19:53:53,587-DEBUG: Func-get_categories : Line-99 : Pop-Up Laundry Hampers: https://www.amazon.ae/gp/bestsellers/home/12148519031 is set to True
+2022-08-28 19:53:53,587-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/home/12148519031
+2022-08-28 19:53:55,126-DEBUG: Func-get_categories : Line-99 : Hand Mixers: https://www.amazon.ae/gp/bestsellers/kitchen/12134851031 is set to True
+2022-08-28 19:53:55,126-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134851031
+2022-08-28 19:53:57,059-DEBUG: Func-get_categories : Line-99 : Stand Mixers: https://www.amazon.ae/gp/bestsellers/kitchen/12134852031 is set to True
+2022-08-28 19:53:57,059-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134852031
+2022-08-28 19:53:58,575-DEBUG: Func-get_categories : Line-99 : Coffee Filters: https://www.amazon.ae/gp/bestsellers/kitchen/12134298031 is set to True
+2022-08-28 19:53:58,575-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134298031
+2022-08-28 19:54:00,511-DEBUG: Func-get_categories : Line-99 : Coffeemaker Carafes: https://www.amazon.ae/gp/bestsellers/kitchen/12134299031 is set to True
+2022-08-28 19:54:00,511-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134299031
+2022-08-28 19:54:02,049-DEBUG: Func-get_categories : Line-99 : Disposable Coffee Filters: https://www.amazon.ae/gp/bestsellers/kitchen/12134800031 is set to True
+2022-08-28 19:54:02,049-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134800031
+2022-08-28 19:54:02,847-ERROR: Func-get_categories : Line-103 : Response Code: 503
+For URL: https://www.amazon.ae/gp/bestsellers/kitchen/12134800031
+2022-08-28 19:54:02,847-DEBUG: Func-get_categories : Line-99 : Reusable Filters: https://www.amazon.ae/gp/bestsellers/kitchen/12134802031 is set to True
+2022-08-28 19:54:02,847-DEBUG: Func-get_categories : Line-72 : URL Scraping is: https://www.amazon.ae/gp/bestsellers/kitchen/12134802031
